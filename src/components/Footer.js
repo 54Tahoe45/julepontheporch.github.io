@@ -17,13 +17,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="d-flex">
-              <p>city Moscow Main st 2020 office #223</p>
-            </div>
-            <div className="d-flex">
-              <a href="tel:555-555-555">+7(960)555-5555</a>
-            </div>
-            <div className="d-flex">
-              <p>email@gmail.com</p>
+              <p>Lake Tahoe</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-2 col-sm-6">
@@ -77,7 +71,7 @@ const Footer = () => {
             </div>
             <p className="pt-3 text-center">
               Copyright&copy;
-              {new Date().getFullYear()}&nbsp;New Horizon | All Rights Reserved
+              {new Date().getFullYear()}&nbsp;JuleponthePorch | All Rights Reserved
             </p>
           </div>
         </div>
