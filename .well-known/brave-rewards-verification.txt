@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: julepontheporch.com
-Token: c0bf5f3e2ac34e34b2da799001984aed8634ae79dbee54989e25c8e41661efe3
